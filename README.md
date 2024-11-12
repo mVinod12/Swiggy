@@ -9,6 +9,11 @@ This Java program simulates a fight between two players in an arena, where they 
   javac src/main/java/com/arena/*.java
 
 Run the program:
-bash
 
 java -cp src/main/java com.arena.Main
+
+Run the tests with JUnit:
+
+javac -cp .:junit-5.7.0.jar tests/java/com/arena/*.java
+java -cp .:junit-5.7.0.jar org.junit.runner.JUnitCore com.arena.ArenaTest
+
