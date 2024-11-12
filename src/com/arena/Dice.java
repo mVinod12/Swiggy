@@ -1,4 +1,4 @@
-package com.ge.www;
+package com.arena;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.ge.www;
+package com.arena;
 
 public class Arena {
 

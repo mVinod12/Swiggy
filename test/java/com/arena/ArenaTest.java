@@ -1,9 +1,12 @@
-package com.ge.www;
+package com.arena;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
+
+import com.arena.Arena;
+import com.arena.Player;
 
 class ArenaTest {
 
